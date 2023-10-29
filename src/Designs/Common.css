@@ -1,0 +1,32 @@
+.topNav{
+  display: flex;
+  align-items: center;
+  width: 90%;
+  justify-content: space-around;
+}
+
+.navOptions{
+  display: flex;
+  justify-content: end;
+}
+
+
+.home-images{
+  position: relative;
+  height: 50%;
+}
+
+.loader {
+  width: 100%;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagi{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
